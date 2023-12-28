@@ -11,7 +11,7 @@
     "module": "es2020",
     "skipLibCheck": true,
     "strictNullChecks": true,
-    "target": "es2019",
+    "target": "ESNext",
     "sourceMap": true
   },
   "include": ["**/*.ts"]
